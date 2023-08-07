@@ -9,10 +9,9 @@
 [https://drive.google.com/file/d/19BWIpvYB6D8p61M-VdL2GKJ6-M0iflJb/view?usp=sharing](https://drive.google.com/file/d/19BWIpvYB6D8p61M-VdL2GKJ6-M0iflJb/view?usp=sharing)
 
 <h2>Project Screenshots:</h2>
+![screenshot1](https://github.com/Drishtantranjan/FreeFire-Wallpaper-App/assets/84273332/e094c3a0-3e2b-4bc9-ad2a-444a03e62b34)
 
-<img src="https://drive.google.com/file/d/1MHutGm-VZBacI10d2_NM2q9gquZjDq-l/view?usp=sharing" alt="project-screenshot" width="100" height="300/">
 
-<img src="" alt="project-screenshot" width="400" height="400/">
 
   
   
