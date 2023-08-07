@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844460177620",
+    "project_id": "freefire-92259",
+    "storage_bucket": "freefire-92259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844460177620:android:309a0700b31f1ddf1e2341",
+        "android_client_info": {
+          "package_name": "com.drishtant.freefire_wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844460177620-72qctvgv0kklmidcqrdr61epk176ed6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhkDxg2GYql9bMFkxKgeFPilullctriYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844460177620-72qctvgv0kklmidcqrdr61epk176ed6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
