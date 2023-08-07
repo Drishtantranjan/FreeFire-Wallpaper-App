@@ -11,7 +11,7 @@
 <h2>Project Screenshots:</h2>
 
 
-  ![screenshot1](https://github.com/Drishtantranjan/FreeFire-Wallpaper-App/assets/84273332/bb8ee10a-983d-4a60-a192-f97108016f85)
+  ![screenshot1](https://github.com/Drishtantranjan/FreeFire-Wallpaper-App/assets/84273332/bb8ee10a-983d-4a60-a192-f97108016f85 | width=100)
 
   ![screenshot2](https://github.com/Drishtantranjan/FreeFire-Wallpaper-App/assets/84273332/d121fc58-acb5-4539-914f-07f24cb96c81)
 ![screenshot3](https://github.com/Drishtantranjan/FreeFire-Wallpaper-App/assets/84273332/92a189df-b978-4fb3-aae4-0338445d615c)
