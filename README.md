@@ -9,13 +9,9 @@
 [https://drive.google.com/file/d/19BWIpvYB6D8p61M-VdL2GKJ6-M0iflJb/view?usp=sharing](https://drive.google.com/file/d/19BWIpvYB6D8p61M-VdL2GKJ6-M0iflJb/view?usp=sharing)
 
 ## Project Screenshots:
+![Untitled design (22)](https://github.com/Drishtantranjan/FreeFire-Wallpaper-App/assets/84273332/d3071bf0-ee69-4141-ba59-68ddd1ec166c)
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/Drishtantranjan/FreeFire-Wallpaper-App/raw/main/assets/84273332/bb8ee10a-983d-4a60-a192-f97108016f85.png" alt="Screenshot 1" width="200" height="400">
-  <img src="https://github.com/Drishtantranjan/FreeFire-Wallpaper-App/raw/main/assets/84273332/d121fc58-acb5-4539-914f-07f24cb96c81.png" alt="Screenshot 2" width="200" height="400">
-  <img src="https://github.com/Drishtantranjan/FreeFire-Wallpaper-App/raw/main/assets/84273332/92a189df-b978-4fb3-aae4-0338445d615c.png" alt="Screenshot 3" width="200" height="400">
-  <img src="https://github.com/Drishtantranjan/FreeFire-Wallpaper-App/raw/main/assets/84273332/6e59cced-49af-4143-9059-31d065e36244.png" alt="Screenshot 4" width="200" height="400">
-</div>
+
 
 
 <h2>🧐 Features</h2>
